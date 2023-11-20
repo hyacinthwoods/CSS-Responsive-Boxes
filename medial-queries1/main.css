@@ -1,3 +1,30 @@
 body {
   background: blanchedalmond;
 }
+.container {
+padding: 25px;
+justify-content: space-around;
+border-style: double;
+text-align: center;
+display: flex;
+flex-direction: column;
+height: 100vh;
+background-color: lightpink;
+}
+
+.a {
+border-style: double;
+height: 200px;
+
+}
+
+.b {
+padding:25px;
+border-style: double;
+height: 650px;
+}
+
+.c {
+border-style: double;
+height: 200px;
+}

@@ -1,3 +1,84 @@
+
 body {
-  background: peachpuff;
+  background: blanchedalmond;
+}
+.container {
+padding: 25px;
+justify-content: space-between;
+text-align: center;
+display: flex;
+flex-direction: column;
+height: 100vh;
+background-color: lightpink;
+}
+
+.a {
+padding: 25px;
+border-style: double;
+height: 275px;
+
+}
+
+
+
+.mid-container {
+  padding: 25px;
+  justify-content: space-between;
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  height: 25vh;
+  background-color: lightpink;
+  
+}
+
+.b {
+  border-style: double;
+  height: 270px;
+  width: 270px;
+}
+.c {
+  border-style: double;
+  height: 270px;
+  width: 270px;
+}
+.d {
+  border-style: double;
+  height: 270px;
+  width: 270px;
+}
+
+.bottom-container {
+  padding: 25px;
+  justify-content: space-between;
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  height: 25vh;
+  background-color: lightpink;
+  
+
+}
+
+.e {
+  border-style: double;
+  height: 270px;
+  width: 270px;
+}
+
+.f {
+  border-style: double;
+  height: 270px;
+  width: 270px;
+}
+.g {
+  border-style: double;
+  height: 270px;
+  width: 270px;
+}
+
+.h {
+  padding: 25px;
+  border-style: double;
+  height: 600px;
 }
